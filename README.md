@@ -24,4 +24,4 @@ This redesign was created as part of a personal project by **Muhammad Qamar**, a
 ### 👤 Author:
 **Muhammad Qamar**  
 Aspiring Machine Learning Engineer & Front-End Developer  
-[YouTube Channel – Muhammad (The Programmer)](https://youtube.com) *(https://www.youtube.com/@MuhammadTheProgrammer)*  
+*(https://www.youtube.com/@MuhammadTheProgrammer)*  
