@@ -17,7 +17,7 @@ This redesign was created as part of a personal project by **Muhammad Qamar**, a
 ---
 
 ### 🔗 Live Demo:
-[Click here to view the website](https://your-username.github.io/bay-horse-tavern)
+[Click here to view the website](https://muhammadqamar99.github.io/the-bay-horse-tavern/)
 
 ---
 
